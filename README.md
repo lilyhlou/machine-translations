@@ -5,7 +5,7 @@ This tool translates the content of a page (made with news articles and publicat
 ## Prerequisites
 
 - **Node.js** (v14 or higher)
-- **Python** (for LibreTranslate)
+- **Python** (for LibreTranslate, v3.8 or higher)
 - **pip** (Python package manager)
 
 ## Installation
@@ -22,7 +22,7 @@ pip install libretranslate
 
 ```bash
 # Clone the Github repository
-git clone <your-repo-url>
+git clone https://github.com/lilyhlou/machine-translations.git
 cd machine-translation
 
 # Install Node.js dependencies
