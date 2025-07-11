@@ -5,7 +5,7 @@ This tool translates the content of a page (made with news articles and publicat
 ## Prerequisites
 
 - **Node.js** (v14 or higher)
-- **Python** (for LibreTranslate, a version >3.7, but <3.11)
+- **Python** (for LibreTranslate, either Python 3.8, 3.9 or 3.10)
 - **pip** (Python package manager)
 
 ## Installation
